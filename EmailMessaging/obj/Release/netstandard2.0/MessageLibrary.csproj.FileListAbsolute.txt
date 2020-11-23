@@ -1,0 +1,9 @@
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Release\netstandard2.0\MessageLibrary.deps.json
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Release\netstandard2.0\MessageLibrary.dll
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Release\netstandard2.0\MessageLibrary.pdb
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.csprojAssemblyReference.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.AssemblyInfoInputs.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.AssemblyInfo.cs
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.csproj.CoreCompileInputs.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.dll
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Release\netstandard2.0\MessageLibrary.pdb

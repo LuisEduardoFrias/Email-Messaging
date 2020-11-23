@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EmailMessaging</id>
+    <version>1.0.0</version>
+    <authors>LuisEduardoFrias</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/LuisEduardoFrias/Email-Messaging</projectUrl>
+    <description>Un Frameword que te ayudara a enviar mensaje por Email rapido y sencillo.</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\VisualStudioProyects\EmailMessaging\EmailMessaging\bin\Release\netstandard2.1\EmailMessaging.dll" target="lib\netstandard2.1\EmailMessaging.dll" />
+  </files>
+</package>

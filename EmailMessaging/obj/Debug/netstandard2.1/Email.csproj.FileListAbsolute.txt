@@ -1,0 +1,9 @@
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Debug\netstandard2.1\Email.deps.json
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Debug\netstandard2.1\Email.dll
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\bin\Debug\netstandard2.1\Email.pdb
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.csprojAssemblyReference.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.AssemblyInfoInputs.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.AssemblyInfo.cs
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.csproj.CoreCompileInputs.cache
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.dll
+C:\VisualStudioProyects\MessageLibrary\MessageLibrary\obj\Debug\netstandard2.1\Email.pdb
