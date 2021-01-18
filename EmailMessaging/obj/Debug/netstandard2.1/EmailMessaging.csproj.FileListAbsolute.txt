@@ -1,0 +1,10 @@
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\bin\Debug\netstandard2.1\EmailMessaging.deps.json
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\bin\Debug\netstandard2.1\EmailMessaging.dll
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\bin\Debug\netstandard2.1\EmailMessaging.pdb
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\bin\Debug\netstandard2.1\EmailMessaging.xml
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.csprojAssemblyReference.cache
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.AssemblyInfoInputs.cache
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.AssemblyInfo.cs
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.csproj.CoreCompileInputs.cache
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.dll
+C:\VisualStudioProyects\EmailMessaging\EmailMessaging\obj\Debug\netstandard2.1\EmailMessaging.pdb

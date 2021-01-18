@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmailMessaging</name>
+    </assembly>
+    <members>
+        <member name="M:EmailMessaging.Email.SendMail(EmailMessaging.EmailCredential,System.String,System.String,System.String,System.Collections.Generic.ICollection{System.Net.Mail.Attachment})">
+            <summary>
+            Metodo para enviar un mensaje a un correo determinado.
+            </summary>
+            <param name="emailCredential">credenciales del Email propietario.</param>
+            <param name="To">Email de destino.</param>
+            <param name="Subject">Asulto del mesaje.</param>
+            <param name="MessageBody">Cuerpo del mensaje.</param>
+            <param name="clientEmail">Cliente email</param>
+            <param name="AttachDocuments">Documnetos adjuntos.</param>
+            <returns>Retorn 
+            1: si el mensaje se envio exitosamente; 
+            2: El Email de destino es incorrecto; 
+            3: El Email es incorrecto;
+            4: Si ubo un error al embiar el mensaje.
+            </returns>
+            
+        </member>
+        <member name="M:EmailMessaging.Email.SendBulkEmail(EmailMessaging.EmailCredential,System.String[],System.String,System.String,System.Collections.Generic.ICollection{System.Net.Mail.Attachment})">
+            <summary>
+            Metodo para enviar un mensaje a varios correos electronicos.
+            </summary>
+            <param name="emailCredential">credenciales del Email propietario.</param>
+            <param name="To">Email de destino.</param>
+            <param name="Subject">Asulto del mesaje.</param>
+            <param name="MessageBody">Cuerpo del mensaje.</param>
+            <param name="clientEmail">Cliente email</param>
+            <param name="AttachDocuments">Documnetos adjuntos.</param>
+            <returns>Retorn 
+            1: si el mensaje se envio exitosamente; 
+            2: El Email de destino es incorrecto; 
+            3: El Email es incorrecto;
+            4: Si ubo un error al embiar el mensaje.
+            </returns>
+            
+        </member>
+        <member name="M:EmailMessaging.Email.SendMailAsync(EmailMessaging.EmailCredential,System.String,System.String,System.String,System.Collections.Generic.ICollection{System.Net.Mail.Attachment})">
+            <summary>
+            Metodo asincorono para enviar un mensaje a un correo determinado.
+            </summary>
+            <param name="emailCredential">credenciales del Email propietario.</param>
+            <param name="To">Email de destino.</param>
+            <param name="Subject">Asulto del mesaje.</param>
+            <param name="MessageBody">Cuerpo del mensaje.</param>
+            <param name="clientEmail">Cliente email</param>
+            <param name="AttachDocuments">Documnetos adjuntos.</param>
+            <returns>Retorn 
+            1: si el mensaje se envio exitosamente; 
+            2: El Email de destino es incorrecto; 
+            3: El Email es incorrecto;
+            4: Si ubo un error al embiar el mensaje.
+            </returns>
+            
+        </member>
+        <member name="M:EmailMessaging.Email.SendBulkEmailAsync(EmailMessaging.EmailCredential,System.String[],System.String,System.String,System.Collections.Generic.ICollection{System.Net.Mail.Attachment})">
+            <summary>
+            Metodo para enviar un mensaje a varios correos electronicos.
+            </summary>
+            <param name="emailCredential">credenciales del Email propietario.</param>
+            <param name="To">Email de destino.</param>
+            <param name="Subject">Asulto del mesaje.</param>
+            <param name="MessageBody">Cuerpo del mensaje.</param>
+            <param name="clientEmail">Cliente email</param>
+            <param name="AttachDocuments">Documnetos adjuntos.</param>
+            <returns>Retorn 
+            1: si el mensaje se envio exitosamente; 
+            2: El Email de destino es incorrecto; 
+            3: El Email es incorrecto;
+            4: Si ubo un error al embiar el mensaje.
+            </returns>
+            
+        </member>
+    </members>
+</doc>
