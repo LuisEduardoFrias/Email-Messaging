@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prubas/1.0.0": {
+        "dependencies": {
+          "EmailMessaging": "1.0.0"
+        },
+        "runtime": {
+          "prubas.dll": {}
+        }
+      },
+      "EmailMessaging/1.0.0": {
+        "runtime": {
+          "EmailMessaging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prubas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmailMessaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

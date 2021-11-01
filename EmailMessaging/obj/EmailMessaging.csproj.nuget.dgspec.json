@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VisualStudioProyects\\EmailMessaging\\EmailMessaging\\EmailMessaging.csproj": {}
+    "C:\\Users\\extlfrias\\Documents\\Proyects\\Email-Messaging\\EmailMessaging\\EmailMessaging.csproj": {}
   },
   "projects": {
-    "C:\\VisualStudioProyects\\EmailMessaging\\EmailMessaging\\EmailMessaging.csproj": {
+    "C:\\Users\\extlfrias\\Documents\\Proyects\\Email-Messaging\\EmailMessaging\\EmailMessaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VisualStudioProyects\\EmailMessaging\\EmailMessaging\\EmailMessaging.csproj",
+        "projectUniqueName": "C:\\Users\\extlfrias\\Documents\\Proyects\\Email-Messaging\\EmailMessaging\\EmailMessaging.csproj",
         "projectName": "EmailMessaging",
-        "projectPath": "C:\\VisualStudioProyects\\EmailMessaging\\EmailMessaging\\EmailMessaging.csproj",
-        "packagesPath": "C:\\Users\\LuisE\\.nuget\\packages\\",
-        "outputPath": "C:\\VisualStudioProyects\\EmailMessaging\\EmailMessaging\\obj\\",
+        "projectPath": "C:\\Users\\extlfrias\\Documents\\Proyects\\Email-Messaging\\EmailMessaging\\EmailMessaging.csproj",
+        "packagesPath": "C:\\Users\\extlfrias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\extlfrias\\Documents\\Proyects\\Email-Messaging\\EmailMessaging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LuisE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\extlfrias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,9 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/W16eVdUb5G4DgX33pbPiBkvQhzAYn36afljjyTjkc5A2ZyGbOn/api": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
